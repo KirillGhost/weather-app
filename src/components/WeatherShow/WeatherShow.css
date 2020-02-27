@@ -1,0 +1,32 @@
+.preload-text {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+
+.weather-menu {
+  margin-top: 50px;
+}
+
+.toggle-weather {
+  font-weight: 600;
+  font-size: 16px;
+  color: blue;
+}
+
+.weather-block {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+
+.weather-header {
+  color: blue;
+}
+
+.weather-info {
+  text-align: center;
+  display: inline-block;
+  width: 20%;
+  font-weight: 500;
+}
